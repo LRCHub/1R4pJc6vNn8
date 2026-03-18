@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Dirty Diana",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-18T11:38:17.906070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DIRTY DIANA",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/02_DIRTY_DIANA_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dirty Diana (2012 Remaster)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Dirty_Diana_(2012_Remaster)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Diana - 2012 Remaster",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_Dirty_Diana_-_2012_Remaster_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/07_Dirty_Diana_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Shaman's Harvest",
+      "has_synced": true,
+      "path": "select/10_Dirty_Diana_Shaman's_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_Dirty_Diana_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dirty Diana (Remastered)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/12_Dirty_Diana_(Remastered)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Son Of The Dirty South (feat. Jelly Roll)",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/13_Son_Of_The_Dirty_South_(feat._Jelly_Roll)_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Son Of The Dirty South",
+      "artist": "Brantley Gilbert",
+      "has_synced": true,
+      "path": "select/14_Son_Of_The_Dirty_South_Brantley_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Laundry",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/15_Dirty_Laundry_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beautiful, Dirty, Rich",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/16_Beautiful,_Dirty,_Rich_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Think Dirty out Loud",
+      "artist": "A Lot Like Birds",
+      "has_synced": false,
+      "path": "select/17_Think_Dirty_out_Loud_A_Lot_Like_Birds.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dirty Nursery Rhymes",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/18_Dirty_Nursery_Rhymes_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Final Frontier Remix Dirty - Rjd2",
+      "artist": "RJD2",
+      "has_synced": false,
+      "path": "select/19_Final_Frontier_Remix_Dirty_-_Rjd2_RJD2.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dirty Boys",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/20_Dirty_Boys_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Little Dirty Trip",
+      "artist": "Yuksek",
+      "has_synced": false,
+      "path": "select/21_Little_Dirty_Trip_Yuksek.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Little Dirty Trip (Vicarious Bliss Remix)",
+      "artist": "Yuksek",
+      "has_synced": false,
+      "path": "select/22_Little_Dirty_Trip_(Vicarious_Bliss_Remix)_Yuksek.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Dirty Feet And Giggles",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/23_Dirty_Feet_And_Giggles_Laika.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Dirty Feet + Giggles",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/24_Dirty_Feet_+_Giggles_Laika.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Dirty Knails",
+      "artist": "Les Savy Fav",
+      "has_synced": true,
+      "path": "select/25_Dirty_Knails_Les_Savy_Fav.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dirty Mouth",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/26_Dirty_Mouth_Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dirty Cartoons",
+      "artist": "Menomena",
+      "has_synced": true,
+      "path": "select/27_Dirty_Cartoons_Menomena.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dirty Monkey",
+      "artist": "Moloko",
+      "has_synced": true,
+      "path": "select/28_Dirty_Monkey_Moloko.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Fantasy (Bad Boy Fantasy Remix) (Feat. Ol' Dirty Bastard)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/29_Fantasy_(Bad_Boy_Fantasy_Remix)_(Feat._Ol'_Dirty_Bastard)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Dirty Knife",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/30_Dirty_Knife_Neko_Case.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dirty Diana",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Dirty_Diana_Michael_Jackson.txt"
+    }
+  ]
+}
